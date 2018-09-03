@@ -1,0 +1,26 @@
+body {
+  background-color: #174487;
+  margin:0;
+}
+
+nav {
+  width:100vw;
+  height: 40px;
+  background: #32c1de;
+}
+
+nav ul{
+  padding: 0;
+  height:100%;
+  margin: 0;
+}
+nav ul li{
+  display: inline;
+  padding: 10px 15px;
+}
+
+nav ul li a{
+  color: #27252e;
+  font-size: 25px;
+  text-decoration: none;
+}
